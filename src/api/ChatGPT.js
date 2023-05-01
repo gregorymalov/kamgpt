@@ -12,3 +12,5 @@ export const messageAPI = {
     return message.get(messageFromInput).then((res) => res);
   },
 };
+
+// test
